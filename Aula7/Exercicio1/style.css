@@ -1,0 +1,8 @@
+form {
+    display: block;
+}
+
+input[type=submit] {
+    position: relative;
+    left: 123px;
+}

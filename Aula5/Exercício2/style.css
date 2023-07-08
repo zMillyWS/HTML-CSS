@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+p {
+    font-size: large;
+}
+
+table {
+    width: 10%;
+    border-collapse: collapse;
+  }
+
+table, th, td {
+    border: 1px solid black;
+  }
+th, td {
+    text-align:center;
+}
